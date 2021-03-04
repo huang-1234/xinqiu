@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/school/school",
+    "pages/milkyWay/milkyWay",
+    "pages/wander/wander",
+    "pages/learner/learner",
+    "pages/publicWelfare/publicWelfare"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f3d0f8",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": ""
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "entryPagePath": "pages/index/index",
+  "tabBar": {
+    "backgroundColor": "#f3d0f8",
+    "list": [
+      {
+        "pagePath": "pages/school/school",
+        "text": "校园心球",
+        "iconPath": "./imgs/xiaoyuanxq.png",
+        "selectedIconPath": "./imgs/xiaoyuanxq.png"
+      },
+      {
+        "pagePath": "pages/milkyWay/milkyWay",
+        "text": "心球银河",
+        "iconPath": "./imgs/xqyinhe.png",
+        "selectedIconPath": "./imgs/xqyinhe.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "心球漫游",
+        "iconPath": "./imgs/xqmanyou.png",
+        "selectedIconPath": "./imgs/xqmanyou.png"
+      },
+      {
+        "pagePath": "pages/learner/learner",
+        "text": "心球学院",
+        "iconPath": "./imgs/xqxueyuan.png",
+        "selectedIconPath": "./imgs/xqxueyuan.png"
+      },
+      {
+        "pagePath": "pages/publicWelfare/publicWelfare",
+        "text": "公益心球",
+        "iconPath": "./imgs/gongyixq.png",
+        "selectedIconPath": "./imgs/gongyixq.png"
+      }
+    ]
+  }
+}
