@@ -14,26 +14,26 @@
     <view>
       <view class="children">
         <view class="img-wrapper">
-          <cover-image src='../../imgs/jinpinCrouse.png' />
+          <cover-image src='../../imgs/课程.png' />
           <text>精品课程</text>
         </view>
       </view>
       <view class="children">
         <view class="img-wrapper">
-          <cover-image src='../../imgs/timeLimitedCourse.png' />
-          <text>精品课程</text>
+          <cover-image src='../../imgs/课程 (1).png' />
+          <text>限时课程</text>
         </view>
       </view>
       <view class="children">
         <view class="img-wrapper">
-          <cover-image src='../../imgs/famousTeachersCrouse.png' />
-          <text>精品课程</text>
+          <cover-image src='../../imgs/课程 (2).png' />
+          <text>名师专栏</text>
         </view>
       </view>
       <view class="children">
         <view class="img-wrapper">
-          <cover-image src='../../imgs/test.png' />
-          <text>精品课程</text>
+          <cover-image src='../../imgs/测试.png' />
+          <text>心理测试</text>
         </view>
       </view>
     </view>

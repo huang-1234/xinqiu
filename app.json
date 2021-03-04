@@ -16,39 +16,39 @@
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json",
-  "entryPagePath": "pages/index/index",
+  "entryPagePath": "pages/school/school",
   "tabBar": {
     "backgroundColor": "#f3d0f8",
     "list": [
       {
         "pagePath": "pages/school/school",
         "text": "校园心球",
-        "iconPath": "./imgs/xiaoyuanxq.png",
-        "selectedIconPath": "./imgs/xiaoyuanxq.png"
+        "iconPath": "./imgs/037-mochi.png",
+        "selectedIconPath": "./imgs/037-mochi.png"
       },
       {
         "pagePath": "pages/milkyWay/milkyWay",
         "text": "心球银河",
-        "iconPath": "./imgs/xqyinhe.png",
-        "selectedIconPath": "./imgs/xqyinhe.png"
+        "iconPath": "./imgs/019-hanami.png",
+        "selectedIconPath": "./imgs/019-hanami.png"
       },
       {
         "pagePath": "pages/index/index",
         "text": "心球漫游",
-        "iconPath": "./imgs/xqmanyou.png",
-        "selectedIconPath": "./imgs/xqmanyou.png"
+        "iconPath": "./imgs/029-selfie stick.png",
+        "selectedIconPath": "./imgs/029-selfie stick.png"
       },
       {
         "pagePath": "pages/learner/learner",
         "text": "心球学院",
-        "iconPath": "./imgs/xqxueyuan.png",
-        "selectedIconPath": "./imgs/xqxueyuan.png"
+        "iconPath": "./imgs/013-park.png",
+        "selectedIconPath": "./imgs/013-park.png"
       },
       {
         "pagePath": "pages/publicWelfare/publicWelfare",
         "text": "公益心球",
-        "iconPath": "./imgs/gongyixq.png",
-        "selectedIconPath": "./imgs/gongyixq.png"
+        "iconPath": "./imgs/021-sakura.png",
+        "selectedIconPath": "./imgs/021-sakura.png"
       }
     ]
   }
