@@ -1,1 +1,63 @@
 /* pages/school.wxss */
+.pageWrapper {
+  height: 100vh;
+  padding: 0 20vw;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  background-color: #faf0f9;
+}
+
+.l-r {
+  width: 50vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+
+.left {
+  justify-content: space-around;
+  height: 90vh;
+}
+
+.right {
+  justify-content: center;
+  align-items: flex-end;
+}
+
+
+.img1-container {
+  width: 35vw;
+  height: 35vw;
+}
+
+.img2-container {
+  width: 15vw;
+  height: 15vw;
+}
+
+.pad-t {
+  padding-top: 8vh;
+}
+
+.hanzi {
+  display: block;
+  margin-top: 1vh;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+
+.rotate270 {
+  transform: rotateZ(270deg);
+}
+
+.img4-container {
+  width: 10vw;
+  height: 10vw;
+  padding-bottom: 10vh;
+}

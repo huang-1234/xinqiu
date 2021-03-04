@@ -1,2 +1,25 @@
 <!--pages/school.wxml-->
-<text>pages/school.wxml</text>
+<view class="pageWrapper">
+  <view class="l-r left">
+    <view class="img1-container">
+      <cover-image src='../../imgs/航天-星球.png' />
+    </view>
+    <view class="img2-container">
+      <cover-image src='../../imgs/预约.png' />
+      <text class="hanzi">预约咨询</text>
+    </view>
+    <view class="img2-container">
+      <cover-image src='../../imgs/电台直播.png' />
+      <text class="hanzi">校园之声</text>
+    </view>
+  </view>
+  <view class="l-r right">
+    <view class="img4-container">
+      <cover-image class="rotate270" src='../../imgs/宇宙星球-14.png' />
+    </view>
+    <view class="img2-container pad-t">
+      <cover-image src='../../imgs/老师认证1.png' />
+      <text class="hanzi">导师介绍</text>
+    </view>
+  </view>
+</view>
