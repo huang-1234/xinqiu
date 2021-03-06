@@ -6,7 +6,8 @@
     "pages/milkyWay/milkyWay",
     "pages/wander/wander",
     "pages/learner/learner",
-    "pages/publicWelfare/publicWelfare"
+    "pages/publicWelfare/publicWelfare",
+    "pages/order/order"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -16,7 +17,7 @@
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json",
-  "entryPagePath": "pages/school/school",
+  "entryPagePath": "pages/index/index",
   "tabBar": {
     "backgroundColor": "#f3d0f8",
     "list": [
