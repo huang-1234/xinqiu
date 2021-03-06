@@ -1,0 +1,50 @@
+<!--pages/order/order.wxml-->
+<view class="container">
+
+  <input placeholder="请输入老师姓名" />
+
+  <view>
+    <view class="img-size">
+      <cover-image src="../../imgs/Dispacher-1.png"></cover-image>
+    </view>
+    <text class="teacher-name">A老师</text>
+  </view>
+
+
+  <view>
+    <view class="img-size">
+      <cover-image src="../../imgs/Dispacher-2.png"></cover-image>
+    </view>
+    <text class="teacher-name">B老师</text>
+  </view>
+
+  <view>
+    <view class="img-size">
+      <cover-image src="../../imgs/Female-1.png"></cover-image>
+    </view>
+    <text class="teacher-name">C老师</text>
+  </view>
+
+  <view>
+    <view class="img-size">
+      <cover-image src="../../imgs/Male-1.png"></cover-image>
+    </view>
+    <text class="teacher-name">D老师</text>
+  </view>
+
+  <view>
+    <view class="img-size">
+      <cover-image src="../../imgs/Male-1.png"></cover-image>
+    </view>
+    <text class="teacher-name">E老师</text>
+  </view>
+
+  <view>
+    <view class="img-size">
+      <cover-image src="../../imgs/Male-1.png"></cover-image>
+    </view>
+    <text class="teacher-name">F老师</text>
+  </view>
+
+
+</view>
