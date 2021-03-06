@@ -4,10 +4,13 @@
     <view class="img1-container">
       <cover-image src='../../imgs/航天-星球.png' />
     </view>
-    <view class="img2-container">
-      <cover-image src='../../imgs/预约.png' />
-      <text class="hanzi">预约咨询</text>
-    </view>
+
+    <navigator open-type="navigateTo" url="/pages/order/order">
+      <view class="img2-container">
+        <cover-image src='../../imgs/预约.png' />
+        <text class="hanzi">预约咨询</text>
+      </view>
+    </navigator>
     <view class="img2-container">
       <cover-image src='../../imgs/电台直播.png' />
       <text class="hanzi">校园之声</text>

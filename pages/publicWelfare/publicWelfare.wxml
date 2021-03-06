@@ -1,2 +1,38 @@
-<!--pages/publicWelfare/publicWelfare.wxml-->
-<text>pages/publicWelfare/publicWelfare.wxml</text>
+
+  <view>
+    <cover-image src='../../imgs/xiangcun.png'></cover-image>
+  </view>
+
+  <view class="content">
+    <view>
+      <view class="children">
+        <view class="img-wrapper">
+          <cover-image src='../../imgs/认证 (1).png'></cover-image>
+          <text>我要认证</text>
+        </view>
+      </view>
+
+      <view class="children">
+        <view class="img-wrapper">
+          <cover-image src='../../imgs/人物.png'></cover-image>
+          <text style="margin-left: 0">成为志愿者</text>
+        </view>
+      </view>
+
+      <view class="children">
+        <view class="img-wrapper">
+          <cover-image src='../../imgs/合作伙伴添加.png'></cover-image>
+          <text>合作伙伴</text>
+        </view>
+      </view>
+
+
+      <view class="children">
+        <view class="img-wrapper">
+          <cover-image src='../../imgs/社会实践.png'></cover-image>
+          <text>社会实践</text>
+        </view>
+      </view>
+    </view>
+
+  </view>

@@ -1,2 +1,32 @@
 <!--pages/milkyWay/milkyWay.wxml-->
-<text>pages/milkyWay/milkyWay.wxml</text>
+<view class="container">
+
+  <view class="sun-wrapper">
+    <view class="sun">
+      <cover-image src="../../imgs/sun_03.png"></cover-image>
+      <text>匿名大厅</text>
+    </view>
+  </view>
+
+
+  <view class="beidouqixing">
+    <cover-image src="../../imgs/beidouqixing_03.png"></cover-image>
+  </view>
+
+
+  <view class="chidren-wrapper">
+    <view class="children">
+      <view class="small">
+        <cover-image src="../../imgs/Yacht.png"></cover-image>
+      </view>
+    </view>
+
+    <view class="children">
+      <view class="small">
+        <cover-image src="../../imgs/beach_umbrella.png"></cover-image>
+      </view>
+    </view>
+  </view>
+
+
+</view>

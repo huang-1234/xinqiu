@@ -1,1 +1,37 @@
 /* pages/milkyWay/milkyWay.wxss */
+.sun-wrapper {
+  width: 100%;
+  height: 25vw;
+  background-color: #f6e0f5;
+}
+
+.sun {
+  float: left;
+  display: block;
+  height: 15vw;
+  width: 15vw;
+
+}
+
+.sun>text {
+  font-size: 25rpx;
+  font-weight: 520;
+  padding-left: 1vw;
+}
+
+.beidouqixing {
+  width: 100vw;
+  height: 50vh;
+}
+
+.chidren-wrapper {}
+
+.children {
+  float: left;
+  width: 50%;
+}
+
+.small {
+  width: 20vw;
+  height: 20vw;
+}
